@@ -3,7 +3,7 @@
 A joint initiative of The Daily Star & WaterAid 
 One page template 
 
-Author
+Author:
 =====================
 Shadma Malik, Staff Reporter, The Daily Star
 
@@ -29,6 +29,6 @@ Arif, Web Programmer, The Daily Star https://www.linkedin.com/in/arif-hossain/
 
 
 Languages & Tools used:
-HTML, CSS, Javascript, Jquery, Twitter Bootstrap, PHP, Drupal, MySQl.
+HTML, CSS, Javascript, Jquery, Drupal
 
 
